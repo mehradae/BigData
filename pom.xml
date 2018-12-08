@@ -47,6 +47,12 @@
           <version>2.4.0</version>
     </dependency>
 
+      <dependency>
+          <groupId>com.databricks</groupId>
+          <artifactId>spark-csv_2.11</artifactId>
+          <version>1.5.0</version>
+      </dependency>
+
 
   </dependencies>
 </project>

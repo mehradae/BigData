@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: edu.ucr.cs.cs226.groupF.AppTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.027 sec - in edu.ucr.cs.cs226.groupF.AppTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.03 sec - in edu.ucr.cs.cs226.groupF.AppTest
