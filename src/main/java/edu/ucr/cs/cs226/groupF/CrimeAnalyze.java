@@ -105,7 +105,7 @@ public class CrimeAnalyze {
         long min = totalTime / 60;
         System.out.println("Total execution time : " + min + " minutes and " + sec +" seconds");
 
-       
+
 
 
 
