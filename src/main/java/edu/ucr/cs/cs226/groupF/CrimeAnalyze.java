@@ -103,6 +103,7 @@ public class CrimeAnalyze {
         double sec = totalTime%60;
         long min = totalTime / 60;
         System.out.println("Total execution time : " + min + " minutes and " + sec +" seconds");
+        System.out.println("Find the written csv file in " + file_path + "groupF/");
 
 
 
