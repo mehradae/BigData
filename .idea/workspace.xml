@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e3671ce-3ea1-407d-ac8a-a181148266db" name="Default Changelist" comment="">
+    <list default="true" id="3e3671ce-3ea1-407d-ac8a-a181148266db" name="Default Changelist" comment="added ReadMe">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadMe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/ucr/cs/cs226/groupF/CrimeAnalyze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/ucr/cs/cs226/groupF/CrimeAnalyze.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/ucr/cs/cs226/groupF/CrimeAnalyze.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ucr/cs/cs226/groupF/CrimeAnalyze.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CrimeAnalyze-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/CrimeAnalyze-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ucr/cs/cs226/groupF/CrimeAnalyze.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.ucr.cs.cs226.groupF.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.ucr.cs.cs226.groupF.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/edu.ucr.cs.cs226.groupF.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/edu.ucr.cs.cs226.groupF.AppTest.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,45 +21,48 @@
     <session id="1000724161">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.38" value="2" />
           <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.40" value="2" />
+          <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.45" value="1" />
           <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.70" value="1" />
           <entry key="project.open.time.77" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="csv" value="2" />
           <entry key="java" value="1" />
+          <entry key="txt" value="1" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="1" />
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="PLAIN_TEXT" value="3" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4665" />
-          <entry key="txt" value="202" />
+          <entry key="java" value="7023" />
+          <entry key="txt" value="819" />
           <entry key="xml" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4665" />
-          <entry key="PLAIN_TEXT" value="202" />
+          <entry key="JAVA" value="7023" />
+          <entry key="PLAIN_TEXT" value="819" />
           <entry key="XML" value="44" />
         </counts>
       </usages-collector>
@@ -66,11 +73,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/ucr/cs/cs226/groupF/CrimeAnalyze.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="107" selection-start-line="107" selection-end-line="107" />
+            <state relative-caret-position="-555">
+              <caret line="29" column="56" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ReadMe.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -98,6 +114,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/ReadMe.txt" />
         <option value="$PROJECT_DIR$/src/main/java/edu/ucr/cs/cs226/groupF/CrimeAnalyze.java" />
       </list>
     </option>
@@ -125,7 +142,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,11 +179,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544348820160" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544348934157" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -185,9 +202,10 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="CrimeAnalyze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="CrimeAnalyze" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.ucr.cs.cs226.groupF.CrimeAnalyze" />
       <module name="CrimeAnalyze" />
+      <option name="PROGRAM_PARAMETERS" value="file://$USER_HOME$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="edu.ucr.cs.cs226.groupF.*" />
@@ -198,11 +216,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.CrimeAnalyze" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -243,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1544348027430</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added ReadMe">
+      <created>1544348955613</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1544348955613</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -258,7 +278,7 @@
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="962" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2841349" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29076838" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -267,15 +287,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49806523" visible="true" weight="0.5895884" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49585405" weight="0.22276029" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39951575" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4991708" weight="0.3292978" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49806523" weight="0.3292978" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50193477" side_tool="true" visible="true" weight="0.5895884" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49530128" visible="true" weight="0.32808718" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50469875" side_tool="true" visible="true" weight="0.32808718" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4997236" weight="0.3292978" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4991708" weight="0.3292978" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
       <window_info anchor="right" id="Palette" order="2" />
@@ -294,7 +314,8 @@
     <MESSAGE value="result homicide, theft, sex offense + crim sexual assualt" />
     <MESSAGE value="write.csv() for CrimeTypePerLocation and CrimePerYear" />
     <MESSAGE value="show some result and added the execution time" />
-    <option name="LAST_COMMIT_MESSAGE" value="show some result and added the execution time" />
+    <MESSAGE value="added ReadMe" />
+    <option name="LAST_COMMIT_MESSAGE" value="added ReadMe" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -302,20 +323,27 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Chicago_Crimes.csv" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ucr/cs/cs226/groupF/CrimeAnalyze.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="107" selection-start-line="107" selection-end-line="107" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
           <caret line="37" column="2" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ucr/cs/cs226/groupF/CrimeAnalyze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-555">
+          <caret line="29" column="56" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
